@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hi%2C%20I'm%20Daecheol%20Shin!&fontSize=40)
 
 <!--
 **sdc9787/sdc9787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
